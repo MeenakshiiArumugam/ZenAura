@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "41930550716",
+    "project_id": "zenaura-9df18",
+    "storage_bucket": "zenaura-9df18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41930550716:android:72d7230dec804b3caf8fb9",
+        "android_client_info": {
+          "package_name": "com.example.zenaura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41930550716-rvbo341uhvfcv6uqlfjtmbp1ef3711tm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zenaura",
+            "certificate_hash": "82d64f94e315f3fa1809378d6b010e06a14d34e2"
+          }
+        },
+        {
+          "client_id": "41930550716-st9m367qaapc2geto5905piqed1lgj3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr5bOr0a9xumaeWCkG8LHf3WHnnCQjQho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41930550716-st9m367qaapc2geto5905piqed1lgj3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

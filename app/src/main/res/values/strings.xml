@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ZenAura</string>
+    <string name="default_web_client_id">41930550716-st9m367qaapc2geto5905piqed1lgj3u.apps.googleusercontent.com</string>
+    <string name="or_enter_custom_label">Or enter custom label</string>
+    <string name="save_note">Save Note</string>
+    <string name="update_note">Update Note</string>
+    <string name="error_empty_fields">Please fill out all fields</string>
+    <string name="error_login_required">You must be logged in</string>
+    <string name="note_saved">Note saved successfully</string>
+    <string name="error_saving_note">Error saving note</string>
+    <string name="note_updated">Note updated successfully</string>
+    <string name="error_updating_note">Error updating note</string>
+</resources>
